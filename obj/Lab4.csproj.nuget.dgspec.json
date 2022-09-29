@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Repos\\C#\\Lab4\\Lab4.csproj": {}
+    "D:\\Source\\Repos\\C#\\Lab4\\Lab4TevisHadley\\Lab4.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Repos\\C#\\Lab4\\Lab4.csproj": {
+    "D:\\Source\\Repos\\C#\\Lab4\\Lab4TevisHadley\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Repos\\C#\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "D:\\Source\\Repos\\C#\\Lab4\\Lab4TevisHadley\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "D:\\Source\\Repos\\C#\\Lab4\\Lab4.csproj",
+        "projectPath": "D:\\Source\\Repos\\C#\\Lab4\\Lab4TevisHadley\\Lab4.csproj",
         "packagesPath": "C:\\Users\\tevis\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Repos\\C#\\Lab4\\obj\\",
+        "outputPath": "D:\\Source\\Repos\\C#\\Lab4\\Lab4TevisHadley\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tevis\\AppData\\Roaming\\NuGet\\NuGet.Config"
